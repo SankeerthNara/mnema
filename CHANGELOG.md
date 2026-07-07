@@ -42,5 +42,3 @@ what this repository ships.
 
 [Unreleased]: https://github.com/nbkdoesntknowcoding/mnema/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/nbkdoesntknowcoding/mnema/releases/tag/v0.1.0
-
-<!-- cla-assistant verification PR — delete after signing -->
