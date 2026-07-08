@@ -3,12 +3,12 @@
 Mnema is built and maintained by **BOPPL** (The Boring People). The honest
 picture of who steers it:
 
-## Lead maintainer (BDFL)
+## Lead maintainers (BDFL)
 
 - **Nischay** — [@nbkdoesntknowcoding](https://github.com/nbkdoesntknowcoding)
 - **Jason** - [@Jason-jo17](https://github.com/Jason-jo17)
 
-Nischay is the lead maintainer and the project's benevolent dictator for life:
+Nischay and Jason are the lead maintainers and the project's benevolent dictator for life:
 the final call on direction, what lands, and what ships rests here. See
 [GOVERNANCE.md](./GOVERNANCE.md) for how decisions get made.
 
